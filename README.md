@@ -22,7 +22,7 @@ Ignore `-condebug` if your disk is really slow. Replace `rl_challenge_1` with wh
 
 Please report to me any issues on this repository
 
-## Trained gent
+## Trained agent
 
 Top left corner is what the agent sees
 
